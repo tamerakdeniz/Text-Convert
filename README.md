@@ -10,7 +10,7 @@ Bu, C# ile geliştirilmiş bir sayıyı yazıya çeviren bir uygulamadır.
 
 1. Projeyi klonlayın veya ZIP dosyası olarak indirin.
 2. Proje klasörüne gidin.
-3. Proje dosyasını (`.csproj`) Visual Studio veya tercih ettiğiniz bir C# derleyicisi ile açın.
+3. Proje dosyasını Visual Studio veya tercih ettiğiniz bir C# derleyicisi ile açın.
 
 ## Nasıl Kullanılır
 
